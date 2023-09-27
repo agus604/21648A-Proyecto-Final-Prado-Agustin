@@ -1,12 +1,12 @@
 body{
-   background-image:url(https://upload.wikimedia.org/wikipedia/commons/9/91/Ruta_Nacional_8_Argentina_2010-03-11.jpg);
+   background-color: whitesmoke;
    background-size: cover; 
 }
 h1{
      color:brown;
 }
 div{
-   color:yellow;
+   color:black;
    font-size: medium;
 
 }
